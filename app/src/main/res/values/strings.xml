@@ -1,0 +1,16 @@
+
+<resources>
+    <string name="app_name">RC Car Controller</string>
+    <string name="throttle_label">Throttle</string>
+    <string name="yaw_label">Yaw</string>
+    <string name="pitch_label">Pitch</string>
+    <string name="roll_label">Roll</string>
+    <string name="battery_label">Batterie</string>
+    <string name="signal_label">Signal</string>
+    <string name="connecting">Connexion en cours...</string>
+    <string name="connected">Connecté</string>
+    <string name="disconnected">Déconnecté</string>
+    <string name="no_device">Aucun appareil trouvé</string>
+    <string name="error_bluetooth_disabled">Bluetooth est désactivé</string>
+    <string name="error_permission_denied">Permission Bluetooth refusée</string>
+</resources>
