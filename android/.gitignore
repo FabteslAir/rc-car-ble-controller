@@ -1,0 +1,29 @@
+# Android
+.gradle/
+.idea/
+*.iml
+*.apk
+*.aar
+local.properties
+build/
+.cxx/
+
+# Gradle
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project
+*.jks
+*.keystore
