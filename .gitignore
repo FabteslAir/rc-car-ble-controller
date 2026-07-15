@@ -1,0 +1,36 @@
+# Android
+*.apk
+*.aar
+.gradle/
+.idea/
+build/
+local.properties
+*.iml
+*.jks
+*.ks
+
+# ESP32/Arduino
+.pio/
+.pioenvs/
+.piolibdeps/
+*.o
+*.a
+*.so
+.DS_Store
+sketch_backup/
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# Générique
+.env
+.env.local
+*.log
+node_modules/
+dist/
+
